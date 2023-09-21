@@ -1,1 +1,2 @@
 # UR-CONTROL
+可以用来控制2f-85gripper，通过ur3controller传回的tcp位姿得到gripper的位姿（有些参数可能需要修改，比如夹子到tcp的距离，夹子相对与tcp的旋转角度可以自己定义）
