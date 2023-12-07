@@ -4,7 +4,6 @@ import  math
 import transformations
 import numpy as np
 
-
 # 从urbasic得到的tcp位姿并转化为4*4
 x, y, z, rx, ry, rz = 0.5, 0.3, 0.2, math.pi/4, math.pi/6, math.pi/3
 
